@@ -4,7 +4,6 @@ class GuessingGame {
         this.last;
         this.middle;
     }
-
     setRange(min, max) {
         this.first = min;
         this.last = max;
